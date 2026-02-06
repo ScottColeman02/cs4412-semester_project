@@ -5,4 +5,4 @@ The goal of this project is to analyze the MovieLens dataset to identify potenti
 DataSet source: https://grouplens.org/datasets/movielens/
 
 Scott Coleman
-Team Name: Free Bird Analysts
+Team Name: Red Hot Data Scientists
